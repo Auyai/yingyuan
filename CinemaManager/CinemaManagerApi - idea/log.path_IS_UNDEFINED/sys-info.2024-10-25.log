@@ -1,0 +1,6 @@
+00:04:40.387 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+00:04:40.450 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,666] - Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+00:04:40.451 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [standby,585] - Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+00:04:40.451 [SpringContextShutdownHook] INFO  o.q.c.QuartzScheduler - [shutdown,740] - Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+00:04:40.454 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2032] - {dataSource-2} closing ...
+00:04:40.455 [SpringContextShutdownHook] INFO  c.a.d.p.DruidDataSource - [close,2104] - {dataSource-2} closed
